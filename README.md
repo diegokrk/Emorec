@@ -5,3 +5,6 @@ This APP recognize your emotions by analyzing your face. Basically, it detects t
 Firstly, the APP captures your neutral expression and then it recognizes the emotion by comparing actual and neutral face.
 
 The APP also allows to show the facial regions and landmarks detected. 
+
+If the APP crashes maybe it is because of the libs. Try to install from here (bigger APP but more reliable):
+https://drive.google.com/open?id=0B4ZyxKSwSEYcd3lpRzFTQnZTaVU
