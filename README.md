@@ -1,4 +1,4 @@
-```
+
 # Emorec
 Emorec, APP facial emotion recognition for Android
 
@@ -10,4 +10,4 @@ The APP also allows to show the facial regions and landmarks detected.
 If the APP crashes try to install from here (bigger APP but more reliable):
 
 https://drive.google.com/open?id=0B4ZyxKSwSEYcd3lpRzFTQnZTaVU
-```
+
